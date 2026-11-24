@@ -256,3 +256,8 @@ app_license = "mit"
 doctype_js = {
     "Purchase Order": "public/js/PO_Setting.js"
 }
+
+
+fixtures = [
+    "Custom Field"
+]
